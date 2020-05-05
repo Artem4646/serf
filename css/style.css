@@ -1,0 +1,11 @@
+@import url(../../node_modules/normalize.css/normalize.css);
+
+.header__slider-item {
+  background-image: url(../img/header-bg.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.webp .header__slider-item{ background-image: url(../img/header-bg.webp); }
